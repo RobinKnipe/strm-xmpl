@@ -1,0 +1,24 @@
+{
+  "name": "strm-xmpl",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinKnipe/strm-xmpl.git"
+  },
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobinKnipe/strm-xmpl/issues"
+  },
+  "homepage": "https://github.com/RobinKnipe/strm-xmpl#readme",
+  "dependencies": {
+    "async-transforms": "^1.0.9",
+    "aws-sdk": "^2.1288.0",
+    "JSONStream": "^1.3.5"
+  }
+}
